@@ -1,0 +1,5 @@
+User-agent: "This message is for every robot"
+Allow: “You may visit the whole site”
+Disallow: /screenshots/“...except the screenshots folder, which is just homework evidence”
+
+Sitemap: “Here’s my map”
